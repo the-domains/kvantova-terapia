@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-04T19:50:16.935Z'
-dateModified: '2016-02-04T19:49:56.770Z'
-title: 'Technika Kvantového Doteku Matrixu  '
+datePublished: '2016-02-04T19:51:40.523Z'
+dateModified: '2016-02-04T19:51:35.667Z'
+title: Technika Kvantového Doteku Matrixu
 author: []
+sourcePath: _posts/2016-02-04-technika-kvantoveho-doteku-matrixu.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-technika-kvantoveho-doteku-matrixu.md
-published: true
 url: technika-kvantoveho-doteku-matrixu/index.html
 _type: Article
 
